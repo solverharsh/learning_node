@@ -1,6 +1,7 @@
 Agenda:
-_______________________________________
-mongodb connection
-schema
-model
-CRUD [Create,Read,Update,Delete];
+
+1. mongodb connection
+2. schema
+3. model
+4. CRUD [Create,Read,Update,Delete];
+    with ejs and server side rendering.
